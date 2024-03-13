@@ -4,7 +4,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/fardream/go-bcs/bcs"
+	"github.com/initia-labs/go-bcs/bcs"
 )
 
 func TestNewUint128FromUint64(t *testing.T) {

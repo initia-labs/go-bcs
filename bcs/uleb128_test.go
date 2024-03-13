@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/fardream/go-bcs/bcs"
+	"github.com/initia-labs/go-bcs/bcs"
 )
 
 type ULEB128Test struct {

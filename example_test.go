@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/fardream/go-bcs/bcs"
+	"github.com/initia-labs/go-bcs/bcs"
 	"github.com/stretchr/testify/require"
 )
 

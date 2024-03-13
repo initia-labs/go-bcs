@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/fardream/go-bcs/bcs"
+	"github.com/initia-labs/go-bcs/bcs"
 )
 
 func runVanillaCaseTest[T bool | uint8 | int8 | int16 | uint16 | int32 | uint32 | int64 | uint64 | string](v any, exp []byte) error {

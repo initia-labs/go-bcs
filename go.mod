@@ -1,4 +1,4 @@
-module github.com/fardream/go-bcs
+module github.com/initia-labs/go-bcs
 
 go 1.21.5
 

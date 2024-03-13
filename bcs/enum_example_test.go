@@ -3,7 +3,7 @@ package bcs_test
 import (
 	"fmt"
 
-	"github.com/fardream/go-bcs/bcs"
+	"github.com/initia-labs/go-bcs/bcs"
 )
 
 type AnotherStruct struct {

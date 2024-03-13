@@ -3,7 +3,7 @@ package bcs_test
 import (
 	"testing"
 
-	"github.com/fardream/go-bcs/bcs"
+	"github.com/initia-labs/go-bcs/bcs"
 )
 
 func TestEnum_Unmarshal(t *testing.T) {

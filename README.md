@@ -2,7 +2,7 @@
 
 Binary Canonical Serialization (bcs) for Golang.
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/fardream/go-bcs.svg)](https://pkg.go.dev/github.com/fardream/go-bcs)
+[![Go Reference](https://pkg.go.dev/badge/github.com/initia-labs/go-bcs.svg)](https://pkg.go.dev/github.com/initia-labs/go-bcs)
 
 Binary Canonical Serialization (bcs) or Libra Canonical Serialization (lcs) is developed
 for the shuttered [libra/diem](https://www.diem.com/) blockchain project.
@@ -10,4 +10,4 @@ for the shuttered [libra/diem](https://www.diem.com/) blockchain project.
 BCS target is mainly rust-lang struct, although many [move-lang](https://github.com/move-language/move) based
 blockchains use it as serialization format.
 
-Given its root in rust, bcs include many features unavailable in golang (or move-lang), such as enum, option. See [go package website](https://pkg.go.dev/github.com/fardream/go-bcs) for more details.
+Given its root in rust, bcs include many features unavailable in golang (or move-lang), such as enum, option. See [go package website](https://pkg.go.dev/github.com/initia-labs/go-bcs) for more details.
